@@ -1,2 +1,4 @@
 This is my first file for learning GIT.
-Using it to learn GIT
+Using it to learn GIT. 
+
+After Making the first commit. I am doing some changes into it.
