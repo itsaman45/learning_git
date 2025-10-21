@@ -2,3 +2,6 @@ This is my first file for learning GIT.
 Using it to learn GIT. 
 
 After Making the first commit. I am doing some changes into it.
+
+Learning GIT is a fabulous thing.
+And now I am making the 3rd change in a file  //(Assume it as a Code .... HaHaHa) (:
