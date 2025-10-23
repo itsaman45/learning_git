@@ -3,3 +3,5 @@ I am fixing the bug here and then gonna merge with the master branch
 
 
 Fixed another bug 
+
+Some changes
