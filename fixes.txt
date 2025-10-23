@@ -1,2 +1,5 @@
 This is the fixes made in the bug-fix branch
 I am fixing the bug here and then gonna merge with the master branch
+
+
+Fixed another bug 
