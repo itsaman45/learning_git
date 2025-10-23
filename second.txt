@@ -1,2 +1,4 @@
 This is the second.txt file 
 Which is used to learn about branches
+
+This is the changes done in master branch 
